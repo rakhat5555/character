@@ -1,0 +1,23 @@
+body{
+  background-image: url("../img/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 2em;
+
+}
+p{
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+  text-shadow: 2px 2px black;
+}
+
+#bananaimg {
+  display: none;
+}
+#purple {
+  display: none;
+}
+#maid {
+  display: none;
+}
